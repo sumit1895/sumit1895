@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding using one of my favourite python, and c++
 - 🌱 I’m currently learning Pythonand css along with javascript..
 - 💞️ I’m looking to collaborate on my various projects..
-- 📫 How to reach me gmail: sumitkumardav01@gmail.com
+- 📫 How to reach me gmail: sumit
 
 <!---
 sumit1895/sumit1895 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
